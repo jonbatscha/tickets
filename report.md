@@ -12,7 +12,7 @@ $Conversion_Rate_Variant = .053$
 
 #### Difference
 
-http://chart.apis.google.com/chart?cht=tx&chl=ConversionRate_{variant}-ConversionRate_{control}=-.0025
+http://chart.apis.google.com/chart?cht=tx&chl=ConversionRate_{variant}-ConversionRate_{control}=-.0025.png
 
 #### Ratio
 
