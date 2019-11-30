@@ -6,13 +6,13 @@ by: Jonathan Batscha, candidate for Product Analyst
 
 ## Conversion Rate
 
-$ConversionRate_{control} = .056$
+Conversion_Rate_Control = .056
 
-$ConversionRate_{variant} = .053$
+$Conversion_Rate_Variant = .053$
 
 #### Difference
 
-$ConversionRate_{variant} - ConversionRate_{control} = -.0025$
+http://chart.apis.google.com/chart?cht=tx&chl=ConversionRate_{variant}-ConversionRate_{control}=-.0025
 
 #### Ratio
 
